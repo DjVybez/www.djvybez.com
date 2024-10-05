@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DJ Vybez - Custom Drops and Music</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <header>
+        <h1>DJ Vybez</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#music">Music</a></li>
+                <li><a href="#drops">Custom Drops</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Welcome to DJ Vybez</h2>
+            <p>Your source for the hottest music and custom DJ drops.</p>
+        </section>
+        <section id="music">
+            <h2>Music</h2>
+            <p>Check out our latest tracks.</p>
+            <!-- Add music player or list here -->
+        </section>
+        <section id="drops">
+            <h2>Custom Drops</h2>
+            <p>Get your personalized DJ drops here.</p>
+            <!-- Add custom drop samples or order form here -->
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Reach out for more information or custom orders.</p>
+            <!-- Add contact form here -->
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 DJ Vybez. All rights reserved.</p>
+    </footer>
+    <script src="scripts/main.js"></script>
+</body>
+</html>
